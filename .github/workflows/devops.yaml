@@ -10,7 +10,7 @@ on:
 
 jobs:
   devops-ci:
-    runs-on: ubuntu:latest
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
